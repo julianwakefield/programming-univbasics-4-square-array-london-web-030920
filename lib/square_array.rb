@@ -4,5 +4,5 @@ def square_array(array)
 #counter = numbers*numbers
 #while numbers[counter] do
 #puts new_numbers[counter]
-#counter = 
+#counter =
 end
